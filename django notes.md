@@ -14,4 +14,3 @@
 - Run the application `python manage.py runserver`
 - Open your browser on [localhost:8000](http://localhost:8000/)
 
-v
